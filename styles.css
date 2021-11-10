@@ -1,0 +1,148 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+div {
+  margin: 0px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-style: normal;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.a-webdeveloper {
+  font-weight: normal;
+  margin-top: 0;
+}
+
+hr {
+ border-style: dotted none none;
+ width: 5%;
+ border-color: #EAF6F6;
+ border-width: 5px;
+ margin: 100px auto;
+}
+
+p {
+  margin-bottom: 0;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud-image {
+  position: absolute;
+  top: 50px;
+  right: 150px;
+}
+
+.bottom-cloud-image {
+  position: absolute;
+  bottom: 300px;
+  left: 150px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0px;
+  padding-top: 20px ;
+  padding-bottom: 20px;
+}
+
+.code-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.language-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.engineer-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.fernando-image {
+  width: 25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+.contact-me-button {
+  -webkit-border-radius: 41px;
+  -moz-border-radius: 41px;
+  border-radius: 41px;
+  color: #FFFFFF;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #66BFBF;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px auto 50px auto;
+}
+
+.footer-link {
+  margin: 10px;
+}
+
+.profile {
+  padding: 100px 0 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto
+}
